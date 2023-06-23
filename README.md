@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Codewars](https://github.r2v.ch/codewars?user=LemonIcedTea)
+![Codewars](https://github.r2v.ch/codewars?user=LemonIcedTea&top_languages=true)
 <!--
 **BrokenHead/BrokenHead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
