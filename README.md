@@ -21,9 +21,10 @@
 
 **Familiar with:**
 <p align="left">
-<g fill="#FFFFFF"><a href="https://asean.autodesk.com/products/fusion-360/overview" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="csharp" /></a></g>
+<a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://github.com/BrokenHead/BrokenHead/assets/37082529/67db1fe0-4084-4ec6-b04c-0f5e6b3db321" width="36" height="36" alt="csharp" /></a>
 
 </p>
+
 
 **Currently learning:**
 <p align="left">
