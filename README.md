@@ -18,7 +18,7 @@ Competent with:
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="36" height="36" alt="csharp" /></a>
 <a href="https://asean.autodesk.com/products/fusion-360/overview" target="_blank" rel="noreferrer"><img src="https://github.com/BrokenHead/BrokenHead/assets/37082529/b262e1ce-d1a0-4649-be7f-90bc5aab6327" width="36" height="36" alt="csharp" /></a>
-
+<p style='color:red'>This is some red text.</p>
 
 
 </p>
