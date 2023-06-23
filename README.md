@@ -5,12 +5,12 @@
 - You can contact me at varist.siri@gmail.com
 ### skill
 
-
+<img align="right"
 | stack    | point     |
 | ---      | ---       |
 | Backtick | ⚪⚪⚪⚪⚪       |
 | Pipe     | ⚪⚪⚪        |
-
+>
 
 
 | stack    | point     |
