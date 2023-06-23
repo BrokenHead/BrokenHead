@@ -5,7 +5,7 @@
 - You can contact me at varist.siri@gmail.com
 ### skill
 
-| Content Cell  | Content Cell  |
+| Content Cell  Content Cell  |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
