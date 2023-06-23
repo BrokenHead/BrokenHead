@@ -5,10 +5,10 @@
 - You can contact me at varist.siri@gmail.com
 ### skill
 
-| Content Cell  Content Cell  |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| stack    | point |        | stack    | point |       
+| ---      | ---       |    | ---      | ---       |    
+| Backtick | `         |    | Backtick | `         |    
+| Pipe     | \|        |    | Pipe     | \|        |    
 
 
 ![Codewars](https://github.r2v.ch/codewars?user=LemonIcedTea&top_languages=true)
