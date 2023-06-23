@@ -5,10 +5,18 @@
 - You can contact me at varist.siri@gmail.com
 ### skill
 
+<p align="left">
 | stack    | point     |
 | ---      | ---       |
 | Backtick | ⚪⚪⚪⚪⚪       |
 | Pipe     | ⚪⚪⚪        |
+</p>
+<p align="rigth">
+| stack    | point     |
+| ---      | ---       |
+| Backtick | ⚪⚪⚪⚪⚪       |
+| Pipe     | ⚪⚪⚪        |
+</p>
 
 ### Badges
 ![Codewars](https://github.r2v.ch/codewars?user=LemonIcedTea&top_languages=true)
