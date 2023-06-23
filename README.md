@@ -5,11 +5,11 @@
 - You can contact me at varist.siri@gmail.com
 ### skill
 
+| Content Cell  | Content Cell  |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| ------------- | ------------- |
 
 ![Codewars](https://github.r2v.ch/codewars?user=LemonIcedTea&top_languages=true)
 <!--
