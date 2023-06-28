@@ -1,6 +1,8 @@
-# Hi 👋 My name's Varist Siriumpunkul
+# Hi 👋 My name's Varist Siriumpunkul you can call me Best
+
 ## Fullstack Developer
 ### About Me
+I’m an active person who seek to learn more on how to work effectively and to how learn to handle a problem in an urgent situations more professionally.
 
 📫 You can contact me at varist.siri@gmail.com
   
