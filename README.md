@@ -2,7 +2,7 @@
 
 ## Fullstack Developer
 ### About Me
-I'm junior Fullstack Developer, based in Pathum thani, Thailand. With background in Computer Engineer, I’m an active person who seek to learn more on how to work effectively and to how learn to handle a problem in an urgent situations more professionally.
+I'm Fullstack Developer, based in Pathum thani, Thailand. With background in Computer Engineer, I’m an active person who seek to learn more on how to work effectively and to how learn to handle a problem in an urgent situations more professionally.
 
 📫 You can contact me at varist.siri@gmail.com
   
