@@ -20,7 +20,7 @@ I'm Fullstack Developer, based in Pathum thani, Thailand. With background in Com
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>  
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://github.com/BrokenHead/BrokenHead/assets/37082529/d10a87ee-30b0-42a6-b41e-935cc5dd1ee0.png"  width="36" height="36" alt="Oracle" /></a>
   
-[![autodesk 365](https://github.com/BrokenHead/BrokenHead/assets/37082529/b262e1ce-d1a0-4649-be7f-90bc5aab6327)]([link to your URL](https://asean.autodesk.com/products/fusion-360/overview))
+[![autodesk 365](https://github.com/BrokenHead/BrokenHead/assets/37082529/b262e1ce-d1a0-4649-be7f-90bc5aab6327)]((https://asean.autodesk.com/products/fusion-360/overview))
   
   [<img alt="autodesk 365" width="40px" src="https://github.com/BrokenHead/BrokenHead/assets/37082529/b262e1ce-d1a0-4649-be7f-90bc5aab6327" />](https://www.google.com/)
   
