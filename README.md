@@ -25,9 +25,9 @@ I'm Fullstack Developer, based in Pathum thani, Thailand. With background in Com
 **Familiar with:**
 <p align="left">
 <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://github.com/BrokenHead/BrokenHead/assets/37082529/67db1fe0-4084-4ec6-b04c-0f5e6b3db321" width="36" height="36" alt="csharp" /></a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
-  <a href="https://www.arduino.cc/" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/BrokenHead/BrokenHead/assets/37082529/bf942fd3-0158-43f6-af47-4b381a2c871a"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a>   
+<a href="https://www.arduino.cc/" target="_blank"> <img align="left" alt="arduino" width="26px" src="https://github.com/BrokenHead/BrokenHead/assets/37082529/bf942fd3-0158-43f6-af47-4b381a2c871a"/> </a> 
 </p>
 
 
