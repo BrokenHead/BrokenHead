@@ -18,8 +18,8 @@ I'm Fullstack Developer, based in Pathum thani, Thailand. With background in Com
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/BrokenHead/BrokenHead/blob/main/image/express_icon.jpg?raw=true" width="36" height="36" alt="Express" /></a>
 <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="36" height="36" alt="csharp" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>  
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://github.com/BrokenHead/BrokenHead/assets/37082529/d10a87ee-30b0-42a6-b41e-935cc5dd1ee0.png"  width="36" height="36" alt="Oracle" /></a>
-<a href="https://asean.autodesk.com/products/fusion-360/overview" target="_blank" rel="noreferrer"><img src="https://github.com/BrokenHead/BrokenHead/blob/main/image/365_icon.jpg?raw=true" width="36" height="36" alt="365" /></a>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://github.com/BrokenHead/BrokenHead/blob/main/image/365_icon.svg?raw=true"  width="36" height="36" alt="Oracle" /></a>
+<a href="https://asean.autodesk.com/products/fusion-360/overview" target="_blank" rel="noreferrer"><img src="https://github.com/BrokenHead/BrokenHead/blob/main/image/365_icon.png?raw=true" width="36" height="36" alt="365" /></a>
   
 </p>
 
