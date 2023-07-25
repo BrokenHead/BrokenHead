@@ -26,10 +26,10 @@ I'm Fullstack Developer, based in Pathum thani, Thailand. With background in Com
 
 **Familiar with:**
 <p align="left">
-<a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BrokenHead/BrokenHead/510f84fb217c7576e75d2b77585dbce33725d662/image/github_icon.svg" width="36" height="36" alt="csharp" /></a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>    
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a>   
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img align="left" alt="arduino" width="26px" src="https://github.com/BrokenHead/BrokenHead/blob/main/image/arduino_icon.png?raw=true"/> </a> 
+<a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BrokenHead/BrokenHead/510f84fb217c7576e75d2b77585dbce33725d662/image/github_icon.svg" width="36" height="36" alt="github" /></a>
+<a href="https://www.python.org" target="_blank"> <img align="left"  width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true" alt="Python"/></a>    
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img align="left" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"  alt="Illustrator"/> </a>   
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img align="left" width="26px" src="https://github.com/BrokenHead/BrokenHead/blob/main/image/arduino_icon.png?raw=true" alt="arduino"/> </a> 
 </p>
 
 
