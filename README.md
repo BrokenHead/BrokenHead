@@ -19,7 +19,7 @@ I'm Fullstack Developer, based in Pathum thani, Thailand. With background in Com
   <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="36" height="36" alt="csharp" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>  
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://github.com/BrokenHead/BrokenHead/assets/37082529/d10a87ee-30b0-42a6-b41e-935cc5dd1ee0"  width="36" height="36" alt="Oracle" /></a>
-<a href="https://asean.autodesk.com/products/fusion-360/overview" target="_blank" ><img src="https://github.com/BrokenHead/BrokenHead/assets/37082529/b262e1ce-d1a0-4649-be7f-90bc5aab6327" width="36" height="36" alt="csharp" /></a>
+<a href="https://asean.autodesk.com/products/fusion-360/overview" target="_blank" ></a>
 </p>
 
 
