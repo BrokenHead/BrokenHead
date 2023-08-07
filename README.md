@@ -2,12 +2,12 @@
 
 ## Fullstack Developer
 ### About Me
-I'm Fullstack Developer, based in Pathum thani, Thailand. With background in Computer Engineer, I’m an active person who seek to learn more on how to work effectively and to how learn to handle a problem in an urgent situations more professionally.
+I'm Fullstack Developer, based in Pathum thani, Thailand. With background in Computer and Robotics Engineering, I’m an active person who seek to learn more on how to work effectively and how learn to handle a problem in an urgent situations more professionally.
 
 ### ✨ check my github page https://brokenhead.github.io  
 📫 You can contact me at varist.siri@gmail.com
   
-### skill
+### skills
 
 **Competent with:**
 <p align="left">
