@@ -4,7 +4,7 @@ I'm a Fullstack Developer, based in Thailand. With a background in Computer and 
 
 I have experience in front-end and back-end software development frameworks, IoT device interfaces, and programming languages, including TypeScript, JavaScript, Go language, Tailwind, ReactJS, VueJS, and several others.
 
-From my personality and feedback from my colleagues, I have been fortunate to gain a reputation for my self-drive motivation, ability to handle a problem in an urgent situation, attention to detail, and ability to explore new environments, face new things even face the complex bugs by staying productive.
+From my personality and feedback from my colleagues, I have been fortunate to gain a reputation for my self-drive motivation, ability to handle a problem in an urgent and blocking situation, attention to detail, and ability to explore new environments, face new things even face the complex bugs by staying productive.
 
 few links that you might be interested in:
 - ✨ my GitHub page https://brokenhead.github.io
