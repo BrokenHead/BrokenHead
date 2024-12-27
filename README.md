@@ -10,7 +10,7 @@ few links that you might be interested in:
 - ✨ my GitHub page https://brokenhead.github.io
 - 📫 You can contact me at varist.siri@gmail.com
   
-### tech stack
+### Tech Stack
 
 **Languages and Frameworks:**
 <p align="left">
