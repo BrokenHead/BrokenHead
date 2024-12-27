@@ -50,6 +50,7 @@ few links that you might be interested in:
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img width="36px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true" alt="Illustrator"/> </a>  
 <a href="https://asean.autodesk.com/products/fusion-360/overview" target="_blank" rel="noreferrer"><img src="https://github.com/BrokenHead/BrokenHead/blob/main/image/365_icon.png?raw=true" width="36" height="36" alt="365" /></a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img width="36px" src="https://github.com/BrokenHead/BrokenHead/blob/main/image/arduino_icon.png?raw=true" alt="arduino"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img width="36px" src="https://github.com/user-attachments/assets/22bb34d4-65a3-42c7-b341-5eb170d2afe6" alt="Figma"/> </a> 
 </p>
 
 
