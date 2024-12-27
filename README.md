@@ -1,11 +1,14 @@
-# Hi 👋 My name's Varist Siriumpunkul you can call me Best
+### Hi 👋 My name's Varist Siriumpunkul you can call me Best
 
-## Fullstack Developer
-### About Me
-I'm Fullstack Developer, based in Pathum Thani, Thailand. With background in Computer and Robotics Engineering, I’m an active person who seek to learn more on how to work effectively and learn how to handle a problem in an urgent situation more professionally.
+I'm a Fullstack Developer, based in Thailand. With a background in Computer and Robotics Engineering, I currently working on Roast.World, RoasTime, and integrate our new product [Bullet R2](https://aillio.com/?page_id=36927) to all ecosystems at [Aillio](https://aillio.com/) in the product development lab, Bangkok.
 
-### ✨ check my github page https://brokenhead.github.io  
-📫 You can contact me at varist.siri@gmail.com
+I have experience in front-end and back-end software development frameworks, IoT device interfaces, and programming languages, including TypeScript, JavaScript, Go language, Tailwind, ReactJS, VueJS, and several others.
+
+From my personality and feedback from my colleagues, I have been fortunate to gain a reputation for my self-drive motivation, ability to handle a problem in an urgent situation, attention to detail, and ability to explore new environments, face new things even face  ะ้ำ complex bugs by staying productive.
+
+few links that you might be interested in:
+### - ✨ my GitHub page https://brokenhead.github.io
+### - 📫 You can contact me at varist.siri@gmail.com
   
 ### skills
 
