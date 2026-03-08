@@ -6,8 +6,8 @@ I have experience in front-end and back-end software development frameworks, IoT
 
 From my personality and feedback from my colleagues, I have been fortunate to gain a reputation for my self-drive motivation, ability to handle a problem in an urgent and blocking situation, attention to detail, and ability to explore new environments, face new things even face the complex bugs by staying productive.
 
-few links that you might be interested in:
-- ✨ my GitHub page https://brokenhead.github.io
+A few links that you might be interested in:
+- ✨ My portfolio website http://bio.varist-siri.com/
 - 📫 You can contact me at varist.siri@gmail.com
   
 ### Tech Stack
